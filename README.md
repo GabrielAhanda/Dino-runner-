@@ -1,5 +1,5 @@
 # Dino-runner-
-Dino runner game coding by using html,canvas,Cassandra javai
+The famous Dino runner game by chrome coding by using html,canvas,and javascript
 
 
 Créer un jeu Dino Runner en utilisant HTML, CSS et JavaScript implique plusieurs étapes. Voici un exemple complet et bien organisé pour vous aider à démarrer :
